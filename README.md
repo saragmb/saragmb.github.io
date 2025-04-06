@@ -1,17 +1,17 @@
 # Sara Burman
 
-##Projects
-###Project 1
+## Projects
+### Project 1
 - Description
 - Links
 
-###Project 2
+### Project 2
 - Description
 - Links
 
-#Education
+# Education
 - Mittuniversitetet
 
-#Work History
+# Work History
 - Workplace 1
 - Workplace 2
