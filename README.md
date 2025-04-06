@@ -4,7 +4,6 @@
 ### Project 1
 - Description
 - Links
-docs/assets/Magasinprojekt_Sara Burman.pdf
 
 ### Project 2
 - Description
